@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.onlyganhuo.com/"/>
-  <updated>2017-05-23T12:14:38.000Z</updated>
+  <updated>2017-05-23T15:56:53.000Z</updated>
   <id>http://www.onlyganhuo.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.onlyganhuo.com/2017/05/23/hello-world/"/>
-    <id>http://www.onlyganhuo.com/2017/05/23/hello-world/</id>
+    <link href="http://www.onlyganhuo.com/16108.html"/>
+    <id>http://www.onlyganhuo.com/16108.html</id>
     <published>2017-05-23T12:14:38.000Z</published>
-    <updated>2017-05-23T12:14:38.000Z</updated>
+    <updated>2017-05-23T15:56:53.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -44,8 +44,8 @@
   
   <entry>
     <title>123</title>
-    <link href="http://www.onlyganhuo.com/2017/05/23/123/"/>
-    <id>http://www.onlyganhuo.com/2017/05/23/123/</id>
+    <link href="http://www.onlyganhuo.com/884863d2.html"/>
+    <id>http://www.onlyganhuo.com/884863d2.html</id>
     <published>2017-05-22T22:35:21.000Z</published>
     <updated>2017-05-23T01:25:39.000Z</updated>
     
@@ -75,8 +75,8 @@
   
   <entry>
     <title>你好啊世界,哈哈</title>
-    <link href="http://www.onlyganhuo.com/2017/05/23/haha%20this%20should%20be%20right/"/>
-    <id>http://www.onlyganhuo.com/2017/05/23/haha this should be right/</id>
+    <link href="http://www.onlyganhuo.com/16107.html"/>
+    <id>http://www.onlyganhuo.com/16107.html</id>
     <published>2017-05-22T22:10:00.000Z</published>
     <updated>2017-05-22T22:12:17.000Z</updated>
     
@@ -118,8 +118,8 @@
   
   <entry>
     <title></title>
-    <link href="http://www.onlyganhuo.com/2015/10/16/%E5%A4%96%E8%B4%B8%E5%81%9A%E4%B8%8D%E5%A5%BD%E8%90%A5%E9%94%80,_%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%88%91%E4%BB%AC%E5%A4%AA%E6%87%92/"/>
-    <id>http://www.onlyganhuo.com/2015/10/16/外贸做不好营销,_是因为我们太懒/</id>
+    <link href="http://www.onlyganhuo.com/1.html"/>
+    <id>http://www.onlyganhuo.com/1.html</id>
     <published>2015-10-16T08:02:41.000Z</published>
     <updated>2017-05-23T01:25:14.000Z</updated>
     
@@ -144,8 +144,8 @@
   
   <entry>
     <title></title>
-    <link href="http://www.onlyganhuo.com/2015/09/25/%E5%A4%96%E8%B4%B8%E4%B8%9A%E5%8A%A1%E5%91%98%E5%A6%82%E4%BD%95%E6%88%90%E5%8A%9F%22%E4%B8%8A%E4%BD%8D%22,%E5%81%9A%E4%B8%AA%E5%90%88%E6%A0%BC%E7%9A%84%22%E5%B0%8F%E4%B8%89%22/"/>
-    <id>http://www.onlyganhuo.com/2015/09/25/外贸业务员如何成功&quot;上位&quot;,做个合格的&quot;小三&quot;/</id>
+    <link href="http://www.onlyganhuo.com/0.html"/>
+    <id>http://www.onlyganhuo.com/0.html</id>
     <published>2015-09-25T01:51:56.000Z</published>
     <updated>2017-05-23T01:25:04.000Z</updated>
     
@@ -192,8 +192,8 @@
   
   <entry>
     <title>you should work hard</title>
-    <link href="http://www.onlyganhuo.com/2015/09/22/%E5%A4%96%E8%B4%B8%E7%95%8C%E4%B8%8D%E7%BC%BA%E5%8A%AA%E5%8A%9B%EF%BC%8C%E7%BC%BA%E6%80%9D%E8%80%83/"/>
-    <id>http://www.onlyganhuo.com/2015/09/22/外贸界不缺努力，缺思考/</id>
+    <link href="http://www.onlyganhuo.com/2.html"/>
+    <id>http://www.onlyganhuo.com/2.html</id>
     <published>2015-09-22T03:07:59.000Z</published>
     <updated>2017-05-23T01:24:50.000Z</updated>
     
