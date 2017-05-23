@@ -287,5 +287,13 @@ $(document).ready(function () {
       integrator.next();
     }
   };
-
+// $('.sidebar-inner').css({'height':'100%'});
+$('body').on('click',function(e){
+    var bSidebarShow = $('#sidebar').css('display')==='block' && $('#sidebar').width() > 0;
+    var bFlag = $(e.target).parents('#sidebar,.sidebar-toggle').length > 0;
+    if(bSidebarShow && !bFlag){
+        $('.sidebar-toggle-line-wrap').trigger('click');
+        e.preventDefault();
+    }
+});
 });
