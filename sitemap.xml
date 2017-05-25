@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.onlyganhuo.com/tags/index.html</loc>
+    
+    <lastmod>2017-05-25T05:15:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.onlyganhuo.com/wordpress/index.html</loc>
     
     <lastmod>2017-05-25T05:13:51.000Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>http://www.onlyganhuo.com/2.html</loc>
     
     <lastmod>2017-05-24T13:31:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.onlyganhuo.com/tags/index.html</loc>
-    
-    <lastmod>2017-05-23T13:32:58.000Z</lastmod>
     
   </url>
   
