@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.onlyganhuo.com/business/index.html</loc>
+    
+    <lastmod>2017-07-03T01:13:32.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.onlyganhuo.com/about/index.html</loc>
     
-    <lastmod>2017-07-03T01:01:03.000Z</lastmod>
+    <lastmod>2017-07-03T01:02:32.000Z</lastmod>
     
   </url>
   
@@ -54,13 +61,6 @@
     <loc>http://www.onlyganhuo.com/categories/index.html</loc>
     
     <lastmod>2017-05-25T05:12:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.onlyganhuo.com/business/index.html</loc>
-    
-    <lastmod>2017-05-25T05:12:35.000Z</lastmod>
     
   </url>
   
